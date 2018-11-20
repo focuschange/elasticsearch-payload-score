@@ -1,0 +1,10 @@
+{ "index" : { "_index" : "payload-test", "_type" : "_doc", "_id" : "1" } }
+{ "key" : ["yellow|3 blue|1.1 red|1" ] }
+{ "index" : { "_index" : "payload-test", "_type" : "_doc", "_id" : "2" } }
+{ "key" : ["yellow|2 yellow|2.5 blue|1 red|5"] }
+{ "index" : { "_index" : "payload-test", "_type" : "_doc", "_id" : "3" } }
+{ "key" : ["yellow|10 blue|2 red|4.3" ] }
+{ "index" : { "_index" : "payload-test", "_type" : "_doc", "_id" : "4" } }
+{ "key" : ["dark_yellow|10 blue|3 red|4.2" ] }
+{ "index" : { "_index" : "payload-test", "_type" : "_doc", "_id" : "5" } }
+{ "key" : ["yellow|102020.95 blue red|1" ] }
