@@ -4,7 +4,7 @@ Score documents with payload in elasticsearch 6.5
 document : http://www.irgroup.org/payload-score-in-elasticsearch-6.5/
 
 ## Releases
-2018-11-22 6.5.0-b1 targets elasticsearch 6.5.0
+2018-11-22 `6.5.0-b1` targets elasticsearch 6.5.0
 
 ## Overview
 
