@@ -17,6 +17,6 @@ Target elasticsearch version is 6.5 and java 1.8
 
 **simple installation**
 
-`$ELASTIC_HOME/bin/elasticsearch-plugin install https://github.com/focuschange/elasticsearch-payload-score/releases/download/v6.5.0/elasticsearch-payload-scoring-6.5.0.zip`
+`$ELASTIC_HOME/bin/elasticsearch-plugin install https://github.com/focuschange/elasticsearch-payload-score/releases/download/v6.5.0-b1/payload_score-6.5.0-b1.zip`
 
 ## Example
