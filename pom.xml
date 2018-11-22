@@ -6,7 +6,7 @@
 
     <groupId>org.irgroup.estools</groupId>
     <artifactId>payload_score</artifactId>
-    <version>6.5.0</version>
+    <version>6.5.0-b1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
