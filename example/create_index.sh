@@ -2,7 +2,7 @@
 
 OPTIND=1         # Reset in case getopts has been used previously in the shell.
 
-INDEX_NAME='wmind_search_01'
+INDEX_NAME='payload-test'
 ES_HOST='localhost:9200'
 SET_MAP='set-map.json'
 
